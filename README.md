@@ -13,8 +13,10 @@ https://pythonexamples.org/python-opencv-image-filter-convolution-cv2-filter2d/
 
 # Open CV
 OpenCV (ראשי תיבות של Open Source Computer Vision) היא חבילת תוכנה (המיועדת למתכנתים) שנועדה לעזור לפתח יישומים של ראייה ממוחשבת. OpenCV פתוחה לשימוש מחקרי ומסחרי כאחד (תחת רישיון BSD). הספרייה תואמת android,‏ windows,‏ Linux mac OS. הספרייה מוכוונת בעיקר עבור יישומי ראייה ממוחשבת בזמן אמת.
-
 https://opencv.org
+
+https://github.com/a-anjos/python-opencv/blob/master/cv2cheatsheet.pdf
+openCV Cheat Sheet
 
 ## Selected Functions
 ```python
