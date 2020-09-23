@@ -7,6 +7,8 @@ https://en.wikipedia.org/wiki/Digital_image_processing
 https://setosa.io/ev/image-kernels/
 Image Kernels Explained Visually
 
+https://ziyizhu.me/2020/03/17/image-processing-visualization/
+
 https://pythonexamples.org/python-opencv-image-filter-convolution-cv2-filter2d/
 
 # Open CV
