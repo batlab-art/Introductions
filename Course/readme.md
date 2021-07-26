@@ -1,4 +1,5 @@
-Python Course - קורס פייתון
+## Python Course - קורס פייתון
+קורס יסודות בפייתון שילווה את חלקו הראשון של הקורס
 
 https://campus.gov.il/course/course-v1-cs-gov_cs_selfpy101/
 
